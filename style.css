@@ -1,0 +1,21 @@
+body{
+    height:100 vph;
+    width:100 vpw;
+}
+.box
+{
+    width:200px;
+    height:200px;
+}
+.box1
+{
+    background-color: blue;
+}
+.box2
+{
+    background-color: brown;
+}
+.box3
+{
+    background-color: green;
+}
